@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Trees
+  - Bear
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Obstacles
+  - Bear
+  - Wolf
+  - Hare
+  - Moose
+  - Grass
+  - HareNest
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Map
+    uniqueID: 2205482141
+    locked: 0
+  - name: Grass
+    uniqueID: 30554491
+    locked: 0
+  - name: Water
+    uniqueID: 887433167
+    locked: 0
+  - name: Mountains
+    uniqueID: 1714058099
+    locked: 0
+  - name: Tree
+    uniqueID: 2243768217
+    locked: 0
+  - name: Animal
+    uniqueID: 3987518789
+    locked: 0
